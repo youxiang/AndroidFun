@@ -4,3 +4,5 @@
 Android源码设计模式分析
 
 https://github.com/simple-android-framework-exchange/android_design_patterns_analysis.git
+
+http://www.brightec.co.uk/ideas/android-listview-alphabet-scroller
